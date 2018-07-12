@@ -1,11 +1,5 @@
 Python 3.5.2 (default, Nov 23 2017, 16:37:01) 
 [GCC 5.4.0 20160609] on linux
-Type "copyright", "credits" or "license()" for more information.
->>> a = ['aman','agarwal','loves','pooja']
->>> print(''.join(a))
-amanagarwallovespooja
->>> print(' '.join(a))
-aman agarwal loves pooja
 >>> import sklearn
 >>> print(sklearn)
 <module 'sklearn' from '/usr/local/lib/python3.5/dist-packages/sklearn/__init__.py'>
